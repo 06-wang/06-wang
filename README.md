@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Zhiyou Wang 👋
+# Hola, soy Zhiyou Wang
 
 ### Estudiante de ASIR | Sistemas, redes y automatización
 
