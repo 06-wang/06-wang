@@ -31,32 +31,6 @@ También colaboro en la gestión diaria de un negocio familiar, una experiencia 
 - **Infraestructura:** Docker, Docker Compose, RAID, copias de seguridad, cortafuegos y VPN
 - **Herramientas:** Git, GitHub, LaTeX y Microsoft Office
 
-## Experiencia
-
-**Helpdesk Support — Konecta**  
-Prácticas · Madrid · marzo 2025 – junio 2025
-
-- Atención y resolución de incidencias de soporte técnico a usuarios.
-
-## Formación
-
-- **Técnico Superior en ASIR** — Digitech FP · 2025–2027
-- **Técnico en SMR** — Digitech FP · 2023–2025
-- **CCNA: Introduction to Networks** — Cisco Networking Academy
-
-## Idiomas
-
-- Chino: nativo
-- Inglés: B2
-- Español: entorno académico y profesional
-
-## Ahora mismo
-
-- Ampliando mi portfolio con proyectos prácticos
-- Mejorando mis conocimientos de Linux, redes y contenedores
-- Aprendiendo a usar la automatización y la IA como apoyo para documentar y resolver problemas
-
-<div align="center">
 
 **Construyendo una base sólida, un proyecto a la vez.**
 
